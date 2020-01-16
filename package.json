@@ -1,6 +1,6 @@
 {
   "name": "@aacassandra/parse-config",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Parse config",
   "main": "dist/index.js",
   "publishConfig": {
